@@ -1,6 +1,5 @@
 # MozFest 2016 Lightning Talks
-## Lightning Talks from the Mozilla Festival 
-### Ravensbourne, London, October 28-30th 2016
+## Ravensbourne, London, October 28-30th 2016
 
 In 2016, the Mozilla Festival hosted the first ever lightning talks (["One hour, three fellowships, nine ideas"](https://app.mozillafestival.org/#_session-797)), bringing together many cohorts of OpenNews, Open Web, and Mozilla Science Lab Fellows for short, ~five-minute talks on their favorite topics.
 
